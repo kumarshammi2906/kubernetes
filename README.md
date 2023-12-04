@@ -2,7 +2,6 @@
 Introduction on Kubernetes
 Author - Shammi Kumar
 
-
 What is Kubernetes (k8s)?
 Kubernetes is an open-source Container Management tool that automates container deployment, container scaling, descaling, and container load balancing (also called a container orchestration tool). 
 It is written in Golang and has a vast community because it was first developed by Google and later donated to CNCF (Cloud Native Computing Foundation). 
